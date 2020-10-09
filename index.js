@@ -1,4 +1,4 @@
 const axios = require('axios');
 
-axios('https://puppyapi.com')
-  .then(res => console.log(res));
+axios('http://austincodingacademy.com')
+  .then(response => console.log(response));
