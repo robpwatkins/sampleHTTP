@@ -1,4 +1,4 @@
 const axios = require('axios');
 
-axios('http://austincodingacademy.com')
+axios('https://austincodingacademy.com/faq')
   .then(response => console.log(response));
